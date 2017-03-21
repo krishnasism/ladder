@@ -1,0 +1,10 @@
+lastUpgrade=00935
+proj.pluginVersion=0.9.35
+proj.AppId=789403085429
+and.BundleId=com.virtualvertices.ladder
+proj.classDir=Assets
+proj.ConstantsClassName=LadderResources
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e789403085429%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.virtualvertices.ladder%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_baby_steps%22%3eCgkI9dTc4PwWEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_going_up_the_ladderboard%22%3eCgkI9dTc4PwWEAIQCQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_stepping_up_your_game_ads_disabled%22%3eCgkI9dTc4PwWEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_up__up%22%3eCgkI9dTc4PwWEAIQCg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_steep_stooper%22%3eCgkI9dTc4PwWEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_step_it_off%22%3eCgkI9dTc4PwWEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_bigfoot%22%3eCgkI9dTc4PwWEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_ladder_makes_me_madder%22%3eCgkI9dTc4PwWEAIQCA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_step_bye_step%22%3eCgkI9dTc4PwWEAIQCw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_slippery_steps%22%3eCgkI9dTc4PwWEAIQDA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_snakes__ladders%22%3eCgkI9dTc4PwWEAIQDQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_ladder_to_the_galaxy%22%3eCgkI9dTc4PwWEAIQDg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_ladderboard%22%3eCgkI9dTc4PwWEAIQBw%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=789403085429-u5i840g1si2adst6307dljor7bh0hc0a.apps.googleusercontent.com
+proj.requireGPlus=false
+android.SetupDone=true
