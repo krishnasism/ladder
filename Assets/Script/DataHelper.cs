@@ -122,7 +122,7 @@ public class DataHelper : MonoBehaviour {
 			{
 				if (success)
 				{
-					Social.ReportScore(gameScore,"CgkI9dTc4PwWEAIQBw",(bool successx) =>
+					Social.ReportScore(gameScore,"YOUR API KEY",(bool successx) =>
 						{
 							if(successx){}
 							else{}

@@ -24,19 +24,7 @@
 
 public static class LadderResources
 {
-        public const string achievement_baby_steps = "CgkI9dTc4PwWEAIQAQ"; // <GPGSID>
-        public const string achievement_slippery_steps = "CgkI9dTc4PwWEAIQDA"; // <GPGSID>
-        public const string leaderboard_ladderboard = "CgkI9dTc4PwWEAIQBw"; // <GPGSID>
-        public const string achievement_step_it_off = "CgkI9dTc4PwWEAIQBQ"; // <GPGSID>
-        public const string achievement_step_bye_step = "CgkI9dTc4PwWEAIQCw"; // <GPGSID>
-        public const string achievement_bigfoot = "CgkI9dTc4PwWEAIQBg"; // <GPGSID>
-        public const string achievement_going_up_the_ladderboard = "CgkI9dTc4PwWEAIQCQ"; // <GPGSID>
-        public const string achievement_up__up = "CgkI9dTc4PwWEAIQCg"; // <GPGSID>
-        public const string achievement_snakes__ladders = "CgkI9dTc4PwWEAIQDQ"; // <GPGSID>
-        public const string achievement_ladder_makes_me_madder = "CgkI9dTc4PwWEAIQCA"; // <GPGSID>
-        public const string achievement_stepping_up_your_game = "CgkI9dTc4PwWEAIQAw"; // <GPGSID>
-        public const string achievement_ladder_to_the_galaxy = "CgkI9dTc4PwWEAIQDg"; // <GPGSID>
-        public const string achievement_steep_stooper = "CgkI9dTc4PwWEAIQBA"; // <GPGSID>
-
+        
+	//enter your achievement keys here
 }
 

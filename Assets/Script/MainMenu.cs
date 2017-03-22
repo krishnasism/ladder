@@ -8,7 +8,7 @@ using GoogleMobileAds.Api;
 public class MainMenu : MonoBehaviour 
 {
 	#if UNITY_ANDROID
-	string adUnitId="ca-app-pub-3726539248374535/3220283005";
+	string adUnitId="YOUR AD API";
 	#endif
 	BannerView bannerView;
 	AdRequest request;
